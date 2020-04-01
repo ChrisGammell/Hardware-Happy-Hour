@@ -1,2 +1,1 @@
-# Hardware-Happy-Hour
-A static site for HardwareHappyHour.com
+Check out [ChrisGammell.com](https://chrisgammell.com) for more info
